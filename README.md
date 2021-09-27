@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uloveqian2021
-- 👀 I’m interested in NLP/KG/MM
-- 🌱 I’m currently learning Dialogue
+- 👀 I’m interested in NLP/KG/ASR
+- 🌱 I’m currently learning Dialogue/ASR
 - 💞️ I’m looking to collaborate on **
 - 📫 How to reach me ...
 
